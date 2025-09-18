@@ -241,7 +241,7 @@ if __name__ == "__main__":
     print(f"\nEnviados de {alice.email}: ({len(enviados_alice)} mensajes)")
     for m in enviados_alice:
         print(" -", m.resumen())
-Respuesta de IA
+
 
     
 
